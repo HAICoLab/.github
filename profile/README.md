@@ -20,7 +20,7 @@
 
 **HAICoLab** is a research lab in the Division of English at Sogang University, led by Prof. Yoonseok Heo. We study how humans and AI collaborate: building language technology grounded in linguistic and humanistic insight, and helping students in the humanities become confident, critical users and builders of AI.
 
-This organization hosts the lab's official code releases, course projects, and the source of our website.
+This organization hosts the lab's official code releases and research projects.
 
 ## Research Areas
 
@@ -37,7 +37,6 @@ This organization hosts the lab's official code releases, course projects, and t
 |---|---|
 | [CulturePRM](https://github.com/HAICoLab/CulturePRM) | Official code for *CulturePRM: A Process Reward Model for Mitigating Cultural Overriding in Cultural Reasoning* · **EMNLP 2026 Main** |
 | [sogang_renAIssance](https://github.com/HAICoLab/sogang_renAIssance) | Librarian-AI collaborative agent for library classification · **Excellence Award**, 2026 Sogang Generative AI Idea Contest |
-| [haicolab.github.io](https://github.com/HAICoLab/haicolab.github.io) | Source of the lab website |
 
 ## Join Us
 
